@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 
@@ -10,9 +11,7 @@ class Student {
 
     //访问权限
     //公共权限
-    //公共权限可以被类的外部访问
-    //私有权限只能被类的内部访问
-    //保护权限可以被类的子类访问
+
     public:
 
     //类中的属性和行为统一称为成员
