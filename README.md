@@ -1,5 +1,5 @@
 # 🔧 YSU机器人控制学习仓库 | 仪器科学与技术学硕
-**目标导师：张宇（视觉伺服控制） | 就业方向：工业机器人控制算法工程师**  
+**导师：杜义浩（手功能康复机器人） | 就业方向：工业机器人控制算法工程师**  
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-brightgreen)](https://docs.ros.org/)
 [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org/)
 
